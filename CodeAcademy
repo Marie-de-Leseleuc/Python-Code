@@ -10,7 +10,7 @@ CodeAcademy Course Last Checkpoint: Jun 20 17:35 (autosaved)
     Kernel
     Help
 
-Cell Toolbar:
+Cell Toolbar: 
 Simple errors
 
 A common application of a while loop is to check user input to see if it is valid. For example, if you ask the user to enter y or n and they instead enter 7, then you should re-prompt them for input.
